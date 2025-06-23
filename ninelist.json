@@ -1,0 +1,11 @@
+﻿{"warningText": "接口免费，切勿付费。","warningText": "关注公众号:小七软件资讯。",
+"urls":[
+{"name":"📚SVip",
+"url":"https://ghproxy.net/https://raw.githubusercontent.com/xqrjzx/nine/main/nine/svip/svip.json"},
+{"name":"📚动漫帝国","url":"https://ghproxy.net/https://raw.githubusercontent.com/xqrjzx/nine/main/nine/动漫帝国/dmtd.json"},
+{"name":"📚少儿学习","url":"https://ghproxy.net/https://raw.githubusercontent.com/xqrjzx/nine/main/nine/少儿频道/srpd.json"},
+{"name":"📚戏迷园","url":"https://ghproxy.net/https://raw.githubusercontent.com/xqrjzx/nine/main/nine/戏曲/xiqu.json"},
+{"name":"📚短剧场","url":"https://ghproxy.net/https://raw.githubusercontent.com/xqrjzx/nine/main/nine/短剧场/duanju.json"},
+{"name":"📚音乐会","url":"https://ghproxy.net/https://raw.githubusercontent.com/xqrjzx/nine/main/nine/音乐会/yinyue.json"}
+]
+}
