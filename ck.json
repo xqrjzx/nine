@@ -1,0 +1,11 @@
+//"友情提醒":
+//"小七整理分享，关注公众号:小七软件资讯";
+//"本接口中的网络资源均来自于网络和各位互联网大佬的仓库，经各种整合而成，只为方便小白使用，如有冒犯请联系删除",
+
+{ 
+    
+    "storeHouse": [
+        {"sourceName": "📚公众号：小七软件资讯-主📚","sourceUrl": "https://ghproxy.net/https://raw.githubusercontent.com/xqrjzx/nine/main/nine/ninelist.json"},
+		{"sourceName": "📚公众号：小七软件资讯-备📚","sourceUrl": "https://ghproxy.net/https://raw.githubusercontent.com/xqrjzx/nine/main/ninelist.json"}
+    ]
+}
